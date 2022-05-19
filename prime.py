@@ -5,7 +5,7 @@ def prime1(n):
       flag=1
       break
   if flag==1:
-    print("notprime")
+    print("notprime number")
   else:
     print("prime")
     
